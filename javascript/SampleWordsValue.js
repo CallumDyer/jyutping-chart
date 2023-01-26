@@ -4540,7 +4540,7 @@ var sampleWords = {
 	"kwai": {
 		"1": {
 			"chinese": "規矩",
-			"jyutping": "kwai1 geoi",
+			"jyutping": "kwai1 geoi2",
 			"english": "rules"
 		},
 		"2": {
